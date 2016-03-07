@@ -1,17 +1,36 @@
 # dev-practices
-##Mission for the Guide##
-The purpose of this document is to lay down consensus development standards based on best practices. But above all, it is intended to inspire a culture of continual learning through knowledge sharing. We seek to create a space where we continually mentor and encourage one another to become better developers while respecting each others' knowledge and expertise.
+##Mission for the Guide
+The purpose of this document is to foster community learning by laying down a
+collaboration framework for to development standards and best practices. Our
+ goal is to inspire a culture of continual learning through knowledge sharing. 
+ We seek to create a space where we continually mentor and encourage one
+ another to become better developers while respecting each others' knowledge
+ and expertise.
 
-##Guide to the Guide##
-###Best Practices vs. Standards###
-Best practices are things that many people think are best to do. Development standards are requirements for good development. For instance we develop using git (a standard) and most of use prefer SASS for CSS (a best practice).
+##Guide to the Guide
+###Best Practices vs. Standards
+In this guide, we have two types of documents: "best practices" and "standards."
 
-###Development Wisdom###
-Development cannot be fully distilled into tools and practices. Development consists of thousands of micro-decisions that cannot be fully documented that result in wise coding. "Use git flow" is an example of either a best practice or a standard, but "Learn regular expressions and use them for your daily text-editing tasks" or "If you find an un-commented code section that takes you a few minutes to understand, comment it for the next developer." are not truly a best practices, nor are they standards, they are sage pieces of advice. And development wisdom can be a place to have fun/
+####Standards
+A "standard" is a required practice for CoLab developers. For example, all
+CoLab developers must use git for version control.
 
-###Procedure###
-We all participate in creating best practices. If you want to recommend a best practice, branch and create a pull request. Most of the time you'll probably see your best practice merged in.
+####Best Practices
+A "best practice" is a really good idea, a strong preference. It is possible
+that some will hold other opinions on best practices and may consciously choose
+to take another course. For example, some may feel that the use of pure CSS
+over SASS when possible is a best practice.
 
-If you want institutional change (i.e. CoLab uses grunt but you want us to switch to gulp), and you feel that many people will not yet agree with you, propose and plan a "build tool" roundtable. Invite your co-workers to discuss the issue together. If a consensus emerges, or even if it doesn't, create a pull request and see what happens.
+###Procedure
+We all participate in creating best practices and standards. If you want to
+recommend a standard or best practice, branch and create a pull request. Most
+of the time you'll probably see your best practice merged in.
 
-Make your commits meaningful. For a model of excellent commits, see [thoughtbot's commit log](https://github.com/thoughtbot/guides/commits/master).
+If you want institutional change (i.e. CoLab uses grunt but you want us to
+switch to gulp), and you feel that many people will not yet agree with you,
+propose and plan a roundtable (i.e. on the subject of "build tools"). Invite
+your co-workers to discuss the issue together. If a consensus emerges, or even
+if it doesn't, create a pull request and see what happens.
+
+Make your commits meaningful. For a model of excellent commits,
+see [thoughtbot's commit log](https://github.com/thoughtbot/guides/commits/master).
