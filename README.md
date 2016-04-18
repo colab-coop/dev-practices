@@ -21,11 +21,6 @@ over SASS when possible is a best practice.
 We express best practices vs. standards by using obligagory or non-obligatory
 language in the our standards.md documentation.
 
-####Tutorials/Notes
-Tutorials and notes may be placed in subfolders. For instance, in the css-sass
-folder, there is a folder called "flexbox" which may contain documentation of
-bugs in the flexbox specification or tutorials about flexbox.
-
 ###Procedure
 We all participate in creating best practices and standards. If you want to
 recommend a standard or best practice, branch and create a pull request. Most

@@ -1,5 +1,8 @@
 #CSS Best practices and Standards
 
+##Resources
+Flexbox: https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/
+
 ##Standards
 
 CSS declarations should be formatted like so.
