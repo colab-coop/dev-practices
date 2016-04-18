@@ -32,7 +32,8 @@ Rebase frequently to incorporate upstream changes.
     git fetch origin
     git rebase origin/develop
 
-Resolve conflicts. When feature is complete and tests pass, stage the changes.
+Resolve conflicts. When feature is complete and tests pass,
+stage the changes.
 
     git add --all
 
@@ -63,7 +64,8 @@ Submit a pull request.
 
 Ask for a code review.
 
-[good commit message]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+[good commit message]: 
+http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
 ###Review Code
 -----------
