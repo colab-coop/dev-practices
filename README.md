@@ -8,18 +8,18 @@ collaboration framework for to development standards and best practices. Our
  and expertise.
 
 ##Guide to the Guide
-###Best Practices vs. Standards
-In this guide, we have two types of documents: "best practices" and "standards."
 
-####Standards
+####Standards and Best Practices
 A "standard" is a required practice for CoLab developers. For example, all
 CoLab developers must use git for version control.
 
-####Best Practices
 A "best practice" is a really good idea, a strong preference. It is possible
 that some will hold other opinions on best practices and may consciously choose
 to take another course. For example, some may feel that the use of pure CSS
 over SASS when possible is a best practice.
+
+We express best practices vs. standards by using obligagory or non-obligatory
+language in the our standards.md documentation.
 
 ####Tutorials/Notes
 Tutorials and notes may be placed in subfolders. For instance, in the css-sass
