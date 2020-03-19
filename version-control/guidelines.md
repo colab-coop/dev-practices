@@ -1,15 +1,14 @@
-#git
+# git
 
-##Resources
+## Resources
 Here are some useful links in learning about git:
 http://git-scm.com/
 http://gitvisual.com
 
-##use git
+## use git
 CoLab uses git for all version-control purposes.
 
-###Maintaining a Repo
----------------
+### Maintaining a Repo
 
 * Avoid including files in source control that are specific to your
   development machine or process.
@@ -18,8 +17,7 @@ CoLab uses git for all version-control purposes.
 * Rebase frequently to incorporate upstream changes.
 * Use a pull request for code reviews.
 
-###Write a Feature
----------------
+### Write a Feature
 
 Create a local feature branch based off develop.
 
@@ -67,16 +65,14 @@ Ask for a code review.
 [good commit message]: 
 http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
-###Review Code
------------
+### Review Code
 
 A team member other than the author reviews the pull request.
 
 
 When satisfied with the PR, they comment or indicate `Ready to merge.`
 
-###Merge
------
+### Merge
 
 Rebase often. If you do not, you will diverge farther and farther from
 origin. Fixing conflicts farther from origin is much more difficult
