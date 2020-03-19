@@ -1,14 +1,14 @@
 # dev-practices
-##Mission for the Guide
+## Mission for the Guide
 The purpose of this document is to foster community learning by laying down a
 collaboration framework for development guidelines. Our goal is to inspire a
 culture of continual learning through knowledge sharing. We seek to create a
 space where we continually mentor and encourage one another to become better
 developers while respecting each others' knowledge and expertise.
 
-##Guide to the Guide
+## Guide to the Guide
 
-####Guidelines
+#### Guidelines
 Guidelines are here just to make our Dev Life here at CoLab smoother. If we
 all follow the same guidelines, there is less misunderstanding and less
 confusion.
@@ -23,7 +23,7 @@ However if we are coding a project in javascript, and you hate javascript and
 commit your stuff in clojurescript, that's just not going to work. In both cases,
 please submit a pull request for a change to the guidelines and we'll discuss it.
 
-###Procedure
+### Procedure
 We all participate in creating these guidelines. If you want to recommend new
 guidelines, or modify existing guidelines, please branch and create a pull
 request. Most of the time you'll probably see it merged in.
