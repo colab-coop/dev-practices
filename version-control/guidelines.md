@@ -69,8 +69,25 @@ http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
 A team member other than the author reviews the pull request.
 
-
 When satisfied with the PR, they comment or indicate `Ready to merge.`
+
+### Guidelines for PR reviews:
+
+* Actually Review
+  * Don't just accept without reading the commit! :)
+
+* Timeliness
+  * More than likely, the person who wrote the PR is eagerly waiting for the go-ahead to merge. Don't make them wait too long!
+
+* Honesty
+  * It's good to think through things as soon as possible. You may think: "I'd do it differently, but I'm sure they have a good reason to do it this way." That might be true, but it might not. The author of the PR may like your idea better! Even for big / fundamental things: there's no such thing as a stupid question.
+
+* Test
+  * If practical to do so, actually testing out the PR can be highly beneficial. You might be able to catch something that the dev missed.
+
+* Communication
+  * PR Reviews should be held to the same high standards of communication we use everywhere else at CoLab. Be humble, be nice, communicate clearly and completely, be thoughtful, be positive.
+
 
 ### Merge
 
