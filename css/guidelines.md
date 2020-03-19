@@ -1,9 +1,9 @@
-#CSS Best practices and Standards
+# CSS Best practices and Standards
 
-##Resources
+## Resources
 Flexbox: https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/
 
-##Standards
+## Standards
 
 CSS declarations should be formatted like so.
 
@@ -11,5 +11,5 @@ All delivered CSS should be tested at all widths down to at least 320px and pref
 
 Root font size should be set to the html element in px, preferably 16px for desktop, and if needed, media query adjustments can be made to that base size to scale up/down for readability in mobile, using rems to handle scaling for font sizes that should be relative to the base size. px should not be used to set font sizes except where it is needed to override the root font size in limited use-cases.
 
-##Best Practices
+## Best Practices
 Prefer %s to other measures.
